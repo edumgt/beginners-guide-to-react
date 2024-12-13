@@ -1,4 +1,4 @@
-# The Beginner's Guide to React
+## The Beginner's Guide to React
 
 Watch [The Beginner's Guide to React for free on egghead.io](https://kcd.im/beginner-react).
 
